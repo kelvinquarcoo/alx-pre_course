@@ -1,2 +1,1 @@
-#!/bin/bash
-echo "0-alias"
+Shell-Variables
